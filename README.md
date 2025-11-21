@@ -179,11 +179,3 @@ diffie/
 - Implementing proper error handling and connection management
 - Using secure random number generators for all cryptographic operations
 
-## License
-
-This project is provided for educational purposes.
-
-## Author
-
-Created as a demonstration of secure communication systems using modern cryptography.
-
