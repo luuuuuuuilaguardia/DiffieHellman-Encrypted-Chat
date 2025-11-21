@@ -170,7 +170,7 @@ diffie/
 
 ## Security Considerations
 
-⚠️ **Note**: This is an educational project. For production use, consider:
+**Note**: This is an educational project. For production use, consider:
 
 - Using TLS/SSL for additional transport layer security
 - Implementing proper authentication mechanisms
@@ -178,4 +178,3 @@ diffie/
 - Adding message authentication codes (MACs) to prevent tampering
 - Implementing proper error handling and connection management
 - Using secure random number generators for all cryptographic operations
-
